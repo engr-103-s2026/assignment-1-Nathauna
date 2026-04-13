@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. My first name is Nathaniel and my last is Au
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. I took AP CSP and AP CSA in high school and got 4's on both, but I forgot everything and we used python.
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. No I do not, but the code somewhat looks familiar to python.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. Computers are good at storing information, doing repetitive tasks efficiently, and creating models. These abilities would be useful in any field. Also, understanding code can help us understand websites and problems we might face while on the internet.
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. Knowing how to do anything could benefit everyday life. Independence makes life easier. In the case of computational problems, it provides another way of thinking and also help us create niche programs that would help in our very specific scenario.
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. AI is an astonishingly fast growing field and is changing lifes for the better and worse. I would like to understand how it works, like how to create one, grow one, and how to use an AI to the fullest (any special commands).
